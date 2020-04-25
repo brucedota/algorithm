@@ -3,4 +3,4 @@ project(algorithm)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algorithm main.cpp Distaralg.h Distaralg.cpp)
+add_executable(algorithm main.cpp Distaralg.h Distaralg.cpp AStaralg.h AStaralg.cpp DStaralg.h DStaralg.cpp)
